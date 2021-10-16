@@ -1,0 +1,5 @@
+id,getTime,IsBeenCared
+id1,01.01.2000,FALSE
+id20,01.01.2001,TRUE
+id30,01.01.2002,TRUE
+id4,01.01.2003,FALSE
